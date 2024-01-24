@@ -1,0 +1,6 @@
+flet
+pdfplumber
+docxtpl
+docx2pdf
+pillow
+pyinstaller
